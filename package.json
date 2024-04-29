@@ -4,7 +4,8 @@
   "description": "turf booking website",
   "main": "index.js",
   "scripts": {
-    "test": "npm run start"
+    "test": "npm run start",
+    "start": "node index.js"
   },
   "author": "aditya",
   "license": "ISC",
